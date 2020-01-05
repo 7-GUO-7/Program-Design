@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1525187833 source:c:\desktop files\classes\程序设计\homework\hw5\hw5(4)\functions.cpp
+	"complex.h"
+	<iostream>
+
+1525187372 c:\desktop files\classes\程序设计\homework\hw5\hw5(4)\complex.h
+	<iostream>
+
+1525187881 source:c:\desktop files\classes\程序设计\homework\hw5\hw5(4)\main.cpp
+	<iostream>
+	"complex.h"
+

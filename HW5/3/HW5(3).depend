@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1525184400 source:c:\desktop files\classes\程序设计\homework\hw5\hw5(3)\main.cpp
+	<iostream>
+	"Joseph.h"
+
+1525184701 source:c:\desktop files\classes\程序设计\homework\hw5\hw5(3)\fuctions.cpp
+	"Joseph.h"
+	<iostream>
+
+1525180645 c:\desktop files\classes\程序设计\homework\hw5\hw5(3)\joseph.h
+	<iostream>
+

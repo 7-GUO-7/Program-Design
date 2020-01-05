@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1525093800 source:c:\desktop files\classes\程序设计\homework\hw5\hw5(1)\main.cpp
+	"Long_long_int.h"
+	<iostream>
+
+1525093704 source:c:\desktop files\classes\程序设计\homework\hw5\hw5(1)\functions_of_longlongint.cpp
+	"Long_long_int.h"
+	<iostream>
+	<cstring>
+	<algorithm>
+
+1525093704 c:\desktop files\classes\程序设计\homework\hw5\hw5(1)\long_long_int.h
+

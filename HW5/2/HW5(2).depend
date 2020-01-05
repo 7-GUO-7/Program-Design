@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1525176610 source:c:\desktop files\classes\程序设计\homework\hw5\hw5(2)\main.cpp
+	<iostream>
+	"bank.h"
+
+1525176402 c:\desktop files\classes\程序设计\homework\hw5\hw5(2)\bank.h
+	<iostream>
+
+1525176373 source:c:\desktop files\classes\程序设计\homework\hw5\hw5(2)\functions_of_bank.cpp
+	"bank.h"
+	<iostream>
+	<cmath>
+
