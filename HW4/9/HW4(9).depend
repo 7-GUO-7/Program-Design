@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1524468862 source:c:\desktop files\classes\程序设计\homework\hw4\hw4(9)\main.cpp
+	<iostream>
+	<ctime>
+	"time.h"
+
+1524478097 c:\desktop files\classes\程序设计\homework\hw4\hw4(9)\time.h
+	<iostream>
+
+1524478261 source:c:\desktop files\classes\程序设计\homework\hw4\517030910374 郭嘉宋\9\main.cpp
+	<iostream>
+	<ctime>
+	"time.h"
+
+1524478097 c:\desktop files\classes\程序设计\homework\hw4\517030910374 郭嘉宋\9\time.h
+	<iostream>
+

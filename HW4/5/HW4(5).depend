@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1524551716 source:c:\desktop files\classes\程序设计\homework\hw4\hw4(5)\add_new_student.cpp
+	"student_T.h"
+	<iostream>
+
+1524554447 c:\desktop files\classes\程序设计\homework\hw4\hw4(5)\student_t.h
+	<iostream>
+
+1524560363 source:c:\desktop files\classes\程序设计\homework\hw4\hw4(5)\main.cpp
+	"student_T.h"
+	<iostream>
+	<cstring>
+
+1524566531 source:c:\desktop files\classes\程序设计\homework\hw4\517030910374 郭嘉宋\5\main.cpp
+	"student_T.h"
+	<iostream>
+	<cstring>
+
+1524566496 c:\desktop files\classes\程序设计\homework\hw4\517030910374 郭嘉宋\5\student_t.h
+	<iostream>
+

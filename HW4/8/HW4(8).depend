@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1524466702 source:c:\desktop files\classes\程序设计\homework\hw4\hw4(8)\main.cpp
+	<iostream>
+	"complex.h"
+
+1524465439 source:c:\desktop files\classes\程序设计\homework\hw4\hw4(8)\complex.cpp
+	"complex.h"
+
+1524466746 c:\desktop files\classes\程序设计\homework\hw4\hw4(8)\complex.h
+	<iostream>
+

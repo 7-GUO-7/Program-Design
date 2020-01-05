@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1524401312 source:c:\desktop files\classes\程序设计\homework\hw4\hw4(6)\math.cpp
+	"math.h"
+	<cmath>
+	<iostream>
+
+1524401290 c:\desktop files\classes\程序设计\homework\hw4\hw4(6)\math.h
+
+1524401384 source:c:\desktop files\classes\程序设计\homework\hw4\hw4(6)\main.cpp
+	<iostream>
+	"math.h"
+
