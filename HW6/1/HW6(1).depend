@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1525787099 source:c:\desktop files\classes\程序设计\homework\hw6\hw6(1)\main.cpp
+	<iostream>
+	"Date.h"
+	<string>
+
+1525831821 source:c:\desktop files\classes\程序设计\homework\hw6\hw6(1)\functions_of_date.cpp
+	"Date.h"
+	<iostream>
+	<string>
+
+1525787963 c:\desktop files\classes\程序设计\homework\hw6\hw6(1)\date.h
+	<iostream>
+

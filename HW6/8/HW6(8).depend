@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1526908169 source:c:\desktop files\classes\程序设计\homework\hw6\hw6(8)\main.cpp
+	<iostream>
+	"employee.h"
+
+1526908575 source:c:\desktop files\classes\程序设计\homework\hw6\hw6(8)\functions_of_employee.cpp
+	"employee.h"
+	<iostream>
+
+1526908561 c:\desktop files\classes\程序设计\homework\hw6\hw6(8)\employee.h
+	<iostream>
+

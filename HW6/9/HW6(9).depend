@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1526914363 source:c:\desktop files\classes\程序设计\homework\hw6\hw6(9)\main.cpp
+	<iostream>
+	"library.h"
+
+1526965793 source:c:\desktop files\classes\程序设计\homework\hw6\hw6(9)\functions_of_library.cpp
+	"library.h"
+	<iostream>
+	<cstring>
+
+1526965086 c:\desktop files\classes\程序设计\homework\hw6\hw6(9)\library.h
+

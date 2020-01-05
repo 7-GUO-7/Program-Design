@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1526887996 source:c:\desktop files\classes\程序设计\homework\hw6\hw6(6)\main.cpp
+	<iostream>
+	"rectangle.h"
+
+1526888009 source:c:\desktop files\classes\程序设计\homework\hw6\hw6(6)\rectangle.cpp
+	"rectangle.h"
+	<iostream>
+
+1526887967 c:\desktop files\classes\程序设计\homework\hw6\hw6(6)\rectangle.h
+

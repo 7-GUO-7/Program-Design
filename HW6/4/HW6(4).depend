@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1526214067 source:c:\desktop files\classes\程序设计\homework\hw6\hw6(4)\functions_of_longlongint.cpp
+	"Long_long_int.h"
+	<iostream>
+	<cstring>
+	<algorithm>
+	<memory>
+
+1526256579 c:\desktop files\classes\程序设计\homework\hw6\hw6(4)\long_long_int.h
+	<iostream>
+
+1526256864 source:c:\desktop files\classes\程序设计\homework\hw6\hw6(4)\main.cpp
+	<iostream>
+	"Long_long_int.h"
+	"complex.h"
+
+1526256822 source:c:\desktop files\classes\程序设计\homework\hw6\hw6(4)\complex.cpp
+	"complex.h"
+
+1526256699 c:\desktop files\classes\程序设计\homework\hw6\hw6(4)\complex.h
+	<iostream>
+	"Long_long_int.h"
+

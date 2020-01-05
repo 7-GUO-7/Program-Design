@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1526865958 source:c:\desktop files\classes\程序设计\homework\hw6\hw6(5)\main.cpp
+	<iostream>
+	"Stack.h"
+
+1526865998 source:c:\desktop files\classes\程序设计\homework\hw6\hw6(5)\functions_of_stack.cpp
+	"Stack.h"
+	<iostream>
+
+1526865517 c:\desktop files\classes\程序设计\homework\hw6\hw6(5)\stack.h
+

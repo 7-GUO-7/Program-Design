@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1526182340 source:c:\desktop files\classes\程序设计\homework\hw6\hw6(3)\main.cpp
+	<iostream>
+	"matrix.h"
+
+1526181689 c:\desktop files\classes\程序设计\homework\hw6\hw6(3)\matrix.h
+	<iostream>
+
+1526182340 source:c:\desktop files\classes\程序设计\homework\hw6\hw6(3)\functions_of_matrix.cpp
+	"matrix.h"
+	<iostream>
+	<cassert>
+
+1526182775 source:c:\desktop files\classes\程序设计\homework\hw6\517030910374 郭嘉宋\3\functions_of_matrix.cpp
+	"matrix.h"
+	<iostream>
+	<cassert>
+
+1526181689 c:\desktop files\classes\程序设计\homework\hw6\517030910374 郭嘉宋\3\matrix.h
+	<iostream>
+
+1526182340 source:c:\desktop files\classes\程序设计\homework\hw6\517030910374 郭嘉宋\3\main.cpp
+	<iostream>
+	"matrix.h"
+

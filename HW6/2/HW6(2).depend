@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1525876046 source:c:\desktop files\classes\程序设计\homework\hw6\hw6(2)\main.cpp
+	<iostream>
+	"vector.h"
+
+1525875762 c:\desktop files\classes\程序设计\homework\hw6\hw6(2)\vector.h
+	<iostream>
+
+1525875772 source:c:\desktop files\classes\程序设计\homework\hw6\hw6(2)\functions_of_vector.cpp
+	<iostream>
+	"vector.h"
+
