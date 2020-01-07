@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1528188470 source:c:\desktop files\classes\程序设计\homework\hw7\hw7(6)\functions.cpp
+	"student.h"
+	<iostream>
+	<fstream>
+	<cstring>
+	<string>
+	<iomanip>
+
+1528190869 c:\desktop files\classes\程序设计\homework\hw7\hw7(6)\student.h
+
+1528199761 source:c:\desktop files\classes\程序设计\homework\hw7\hw7(6)\main.cpp
+	<iostream>
+	"student.h"
+	<fstream>
+	<string>
+	<cstring>
+	<iomanip>
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1526971844 source:c:\desktop files\classes\程序设计\homework\hw7\hw7(1)\main.cpp
+	<iostream>
+	"TIME_AND_DATE.h"
+
+1526971723 source:c:\desktop files\classes\程序设计\homework\hw7\hw7(1)\functions.cpp
+	"DATE.h"
+	"TIME.h"
+	"TIME_AND_DATE.h"
+	<iostream>
+	<string>
+
+1526969848 c:\desktop files\classes\程序设计\homework\hw7\hw7(1)\date.h
+	<iostream>
+	<string>
+
+1526969742 c:\desktop files\classes\程序设计\homework\hw7\hw7(1)\time.h
+	<iostream>
+
+1526971246 c:\desktop files\classes\程序设计\homework\hw7\hw7(1)\time_and_date.h
+	"TIME.h"
+	"DATE.h"
+

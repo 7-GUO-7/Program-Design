@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1528288317 source:c:\desktop files\classes\程序设计\homework\hw7\hw7(7)\main.cpp
+	<iostream>
+	"perfect_int.h"
+
+1528288317 c:\desktop files\classes\程序设计\homework\hw7\hw7(7)\perfect_int.h
+
+1528288404 source:c:\desktop files\classes\程序设计\homework\hw7\hw7(7)\functions_of_perfect_int.cpp
+	<iostream>
+	"perfect_int.h"
+
